@@ -25,6 +25,8 @@ object CollectionsAndFor {
     val listBuffer = new mutable.ListBuffer[Int]()
     listBuffer.+=(22)
     listBuffer.foreach(println)
+
+
   }
 
 
